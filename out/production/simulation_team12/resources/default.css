@@ -1,0 +1,75 @@
+.root {
+    -fx-font-size: 16pt;
+    -fx-font-family: "Menlo";
+    -fx-base: #000000;
+    -fx-background: #FCFCFC;
+}
+
+.button {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-fill: #97a8bc;
+    -fx-background-color: #fcfcfc;
+    -fx-border-radius: 0;
+    -fx-background-radius: 5;
+    -fx-padding: 5;
+}
+
+.button:hover {
+    -fx-background-color: #bd856f;
+}
+
+.slider {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-fill: #000071;
+    -fx-background-color: #fcfcfc;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}
+
+.choice-box {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-base-color: #FFFFFF;
+    -fx-background-color: #fcfcfc;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.label {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-fill: #000071;
+    -fx-opacity: 0.6;
+}
+
+.text {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-fill: #000071;
+}
+
+.text-field {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Menlo";
+    -fx-text-fill: #000071;
+}
+
+#title-text {
+    -fx-font-size: 40pt;
+    -fx-font-weight: bold;
+    -fx-font-family: "Menlo";
+    -fx-fill: #AFC3FF;
+}
+
+#message-box {
+    fx-font-size: 16pt;
+    -fx-font-family: "Menlo";
+    -fx-fill: black;
+}
+
+#simulation-UI {
+    -fx-background-color: linear-gradient(from 200% 0% to 0% 200%, #FFC7BD, #F6DFFF);
+}

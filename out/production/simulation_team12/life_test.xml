@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simType="LIFE">
+    <size>100</size>
+    <percents>40.0,60.0</percents>
+    <states>ALIVE,EMPTY</states>
+    <misc>0.0</misc>
+</data>

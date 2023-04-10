@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simType="FIRE">
+    <size>100</size>
+    <percents>10,88,2</percents>
+    <states>EMPTY,TREE,FIRE</states>
+    <misc>.55</misc>
+</data>

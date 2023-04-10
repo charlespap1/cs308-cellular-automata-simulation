@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simType="RPS">
+    <size>100</size>
+    <percents>33,33,34</percents>
+    <states>ROCK,PAPER,SCISSORS</states>
+    <misc>.375</misc>
+</data>

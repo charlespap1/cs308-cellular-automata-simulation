@@ -116,6 +116,7 @@ public class SimulationMenu extends Application {
         display = new Scene(root, TOTAL_WIDTH, TOTAL_HEIGHT, DISPLAY_COLOR);
 
         String stylesheet = String.format("%s%s", RESOURCE_FOLDER, STYLESHEET);
+        System.out.println(stylesheet);
         display.getStylesheets().add(getClass().getResource(stylesheet).toExternalForm());
         myInfoBox.getChildren().add(new Label("FILLER"));
         addMessage(myInfoBox, textElements.getString("defaultInfoboxMessage"));

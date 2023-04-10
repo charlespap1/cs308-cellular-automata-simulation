@@ -3,5 +3,5 @@
     <size>100</size>
     <percents>10,.5,89.5</percents>
     <states>EMPTY,SHARK,FISH</states>
-    <misc>10,4,3</misc>
+    <misc>10,4,4</misc>
 </data>
